@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "axios": "git+https://github.com/axios/axios.git",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "opencc": "^1.0.5",
     "puppeteer": "^1.18.1"
   },
