@@ -1,0 +1,35 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "keyword": "關鍵字名稱",
+        "numbers": "總共資料筆數",
+        "results": [
+          {
+            "position": 1,
+            "title": "標題一",
+            "description": "描述一",
+            "url": "網址一"
+          },
+          {
+            "position": 2,
+            "title": "標題二",
+            "description": "描述二",
+            "url": "網址二"
+          }
+        ],
+        "relative_terms": [ 
+            "相關詞語1", 
+            "相關詞語2", 
+            "相關詞語3", 
+            "相關詞語4" 
+        ],
+        "relative_search": [ 
+            "相關搜索1", 
+            "相關搜索2", 
+            "相關搜索3", 
+            "相關搜索4" 
+        ]
+      }
+    ]
+  }
